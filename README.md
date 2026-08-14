@@ -6,10 +6,10 @@ Uma landing page moderna e visualmente impactante para uma ferramenta de IA, foc
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Deployed_on_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-[Ver projeto →]([URL_DO_PROJETO])
+[Ver projeto →](https://brainwave-ai-landing-page-pi.vercel.app/)
 
 <p align="center">
-  <img src="[LINK_PARA_SCREENSHOT_OU_GIF]" alt="Brainwave AI Landing Page Screenshot" width="800">
+  <img src="./public/readme.png" alt="Brainwave AI Landing Page Screenshot" width="800">
 </p>
 
 ## 🚀 Features
