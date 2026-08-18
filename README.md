@@ -9,9 +9,11 @@ Uma landing page moderna e visualmente impactante para uma ferramenta de IA, foc
 [Ver projeto →](https://brainwave-ai-landing-page-pi.vercel.app/)
 
 ---
+
 <p align="center">
   <img src="./public/readme.png" alt="Brainwave AI Landing Page Screenshot" width="838">
 </p>
+
 ---
 
 ## 🚀 Features
